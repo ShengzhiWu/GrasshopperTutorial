@@ -1,2 +1,2 @@
 # Grasshopper Tutorial
-A tutorial for grasshopper beginners.
+An elaborated tutorial for grasshopper beginners consisting of several Grasshopper documents.
